@@ -1,0 +1,25 @@
+# ==============================================================================
+# .gitignore para o repositório "organizador-pastas-python"
+# ==============================================================================
+
+# 1. Ficheiros temporários e ocultos do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon\r
+._*
+
+# 2. Arquivos de cache e compilação do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# 3. Definições específicas do teu editor de código (VS Code)
+.vscode/
+.history/
+*.code-workspace
