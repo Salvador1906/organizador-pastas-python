@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/245a7655-f27f-4508-86a2-bfb5d38a79de
+
 # Organizador de Pastas Inteligente em Tempo Real 🚀
 
 Este é um script em Python desenvolvido para automatizar a organização de ficheiros em qualquer diretório. O programa funciona em segundo plano (como um "Cão de Guarda") e move os ficheiros automaticamente para pastas específicas com base na sua extensão (PDFs, Imagens, Documentos, etc.) assim que eles são criados ou modificados.
